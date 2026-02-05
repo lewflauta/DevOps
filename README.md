@@ -6,3 +6,4 @@
 - [ ] Kubernetes
 - [ ] Project
 - [ ] Homelab
+- [ ] Moltbot
