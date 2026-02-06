@@ -7,6 +7,9 @@
 - [ ] Hosted Project
 - [ ] Homelab, built and documented
 - [ ] Moltbot, build and documented
+- [ ] AWS Certifaction
+- [ ] Kubernetes Certification
+- [ ] Linux Certification
 
 Kubernetes Homelab | Enterprise-Grade GitOps Platform (Self-Hosted)
 Tech Stack: Linux / k3s, Kubernetes, Terraform, Flux, GitHub Actions, Renovate, SOPS
