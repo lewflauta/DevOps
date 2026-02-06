@@ -2,8 +2,8 @@
 - [x] Join Kubecraft Internship Program
 - [x] Linux Fundamentals
 - [x] Advanced Create Encrytped Linux ArchLinux Workstation
-- [ ] Containers
+- [x] Containers
 - [ ] Kubernetes
-- [ ] Project
-- [ ] Homelab
-- [ ] Moltbot
+- [ ] Hosted Project
+- [ ] Homelab, built and documented
+- [ ] Moltbot, build and documented
