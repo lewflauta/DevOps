@@ -3,10 +3,10 @@
 - [x] Linux Fundamentals
 - [x] Advanced Create Encrytped Linux ArchLinux Workstation
 - [x] Containers
-- [ ] Kubernetes
+- [x] Kubernetes
 - [ ] Hosted Project
 - [ ] Homelab, built and documented
-- [ ] Moltbot, build and documented
+- [ ] Openclaw, built and documented
 - [ ] AWS Certifaction
 - [ ] Kubernetes Certification
 - [ ] Linux Certification
