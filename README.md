@@ -5,8 +5,8 @@
 - [x] Containers
 - [x] Kubernetes
 - [ ] Hosted Project
-- [ ] Homelab, built and documented
-- [ ] Openclaw, built and documented
+- [x] Homelab, built and documented
+- [x] Openclaw, built and documented
 - [ ] AWS Certifaction
 - [ ] Kubernetes Certification
 - [ ] Linux Certification
